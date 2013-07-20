@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "http://ruby.taobao.org/"
 
 gem 'bundler', '>= 1.0.10'
 gem 'nats', :require => 'nats/client'
